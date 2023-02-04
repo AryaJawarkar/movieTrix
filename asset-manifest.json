@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movieTrix/static/css/main.051942b2.css",
+    "main.js": "/movieTrix/static/js/main.e573b77f.js",
+    "index.html": "/movieTrix/index.html",
+    "main.051942b2.css.map": "/movieTrix/static/css/main.051942b2.css.map",
+    "main.e573b77f.js.map": "/movieTrix/static/js/main.e573b77f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.051942b2.css",
+    "static/js/main.e573b77f.js"
+  ]
+}
