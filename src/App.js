@@ -7,7 +7,7 @@ import Movie from './SingleMovie'
 function App() {
   return (
     <Routes>
-      <Route path='/' element={<Home />} />
+      <Route index element={<Home />} />
       <Route path='movies/:id' element={<Movie />} />
     </Routes>
   )

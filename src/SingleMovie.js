@@ -13,7 +13,7 @@ if(loading){
 if(error.show){
   return <div className="page-error">
     <h1>{error.msg}</h1>
-    <Link to='/' className='btn'>back home</Link>
+    <Link to="/" className='btn'>back home</Link>
   </div>
 }
 const {Poster:poster,Title:title,Plot:plot,Year:year}= movie
